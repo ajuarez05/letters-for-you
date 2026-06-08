@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Letters For You",
-    "slug": "letters-for-you",
+    "name": "Letters For Jasmine",
+    "slug": "letters-for-jasmine",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "letters-for-you",
+    "scheme": "letters-for-jasmine",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
