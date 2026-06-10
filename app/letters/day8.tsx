@@ -28,13 +28,13 @@ export default function Day8Screen() {
         }}>
         Dear Jasmine,
 
-        This is where you can come whenever you need a little reminder of how much I love you.
+       It's funny how a single day can end up changing so much.
 
-        I wanted to build something special for you,
-        something you could open whenever you miss me.
+When we first met, I had no idea that one day you'd become one of the most important people in my life. I didn't know we'd spend hours talking, make memories together, and become such a huge part of each other's lives.
 
-        Every letter in this app is another reminder
-        of how much you mean to me. I can't wait for you to read them all my love.
+If I could go back and tell that version of myself what was coming, I don't think I'd believe it.
+
+But I'm so glad it happened.
 
         Love,
         Totopos ❤️

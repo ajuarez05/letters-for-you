@@ -28,14 +28,19 @@ export default function Day7Screen() {
         }}>
         Dear Jasmine,
 
-        This is where you can come whenever you need a little reminder of how much I love you.
+        If you ever have one of those days where you're doubting yourself, I want you to read this.
 
-        I wanted to build something special for you,
-        something you could open whenever you miss me.
+You are intelligent.
 
-        Every letter in this app is another reminder
-        of how much you mean to me. I can't wait for you to read them all my love.
+You are kind.
 
+You are stronger than you realize.
+
+You care deeply about the people around you, and that is one of the things I admire most about you.
+
+Sometimes we're the last people to recognize our own worth. So if you ever forget, borrow my eyes for a moment.
+
+I promise you'll see someone incredible.
         Love,
         Totopos ❤️
       </Text>

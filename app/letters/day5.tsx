@@ -28,16 +28,16 @@ export default function Day5Screen() {
         }}>
         Dear Jasmine,
 
-        This is where you can come whenever you need a little reminder of how much I love you.
+        I wonder where we'll be one year from now.
 
-        I wanted to build something special for you,
-        something you could open whenever you miss me.
+I don't know what challenges we'll face or what surprises life has waiting for us. What I do know is that no matter where we end up, I hope we're still making each other laugh, still learning about each other, and still choosing each other.
 
-        Every letter in this app is another reminder
-        of how much you mean to me. I can't wait for you to read them all my love.
+The future can feel uncertain sometimes, but you're one of the few things that makes it feel exciting instead of scary.
 
-        Love,
-        Totopos ❤️
+No matter what happens, I'm grateful that I get to experience this chapter of my life with you.
+
+Love,
+Alexa
       </Text>
     </ScrollView>
   );

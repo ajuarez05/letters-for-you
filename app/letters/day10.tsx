@@ -27,17 +27,21 @@ export default function Day10Screen() {
           lineHeight: 30,
         }}>
         Dear Jasmine,
+If this is the last letter in the collection, then there's only one thing left to say.
 
-        This is where you can come whenever you need a little reminder of how much I love you.
+Thank you for being part of my story.
 
-        I wanted to build something special for you,
-        something you could open whenever you miss me.
+No matter what adventures are ahead of us, these memories will always matter to me. Every laugh, every drive, every conversation, every moment that helped create the relationship we have today.
 
-        Every letter in this app is another reminder
-        of how much you mean to me. I can't wait for you to read them all my love.
+I made this because I wanted you to have something you could revisit whenever you wanted—a reminder of how much you mean to me.
 
+And if you read every single letter, then thank you for that too.
+
+I love you.
+
+Always.
         Love,
-        Totopos ❤️
+        Alexa ❤️
       </Text>
     </ScrollView>
   );

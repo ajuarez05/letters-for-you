@@ -28,13 +28,15 @@ export default function Day6Screen() {
         }}>
         Dear Jasmine,
 
-        This is where you can come whenever you need a little reminder of how much I love you.
+        Thank you.
 
-        I wanted to build something special for you,
-        something you could open whenever you miss me.
+Thank you for every conversation, every memory, every laugh, and every moment of patience you've shown me.
 
-        Every letter in this app is another reminder
-        of how much you mean to me. I can't wait for you to read them all my love.
+Thank you for listening to me when I needed someone. Thank you for challenging me to become better. Thank you for showing me what it feels like to care about someone this much.
+
+Relationships aren't built from grand gestures alone. They're built from thousands of little choices made every day.
+
+Thank you for choosing us.
 
         Love,
         Totopos ❤️

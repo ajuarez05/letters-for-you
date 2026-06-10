@@ -28,13 +28,17 @@ export default function Day9Screen() {
         }}>
         Dear Jasmine,
 
-        This is where you can come whenever you need a little reminder of how much I love you.
+        People always talk about their favorite songs, but I think my favorite sound is your laugh.
 
-        I wanted to build something special for you,
-        something you could open whenever you miss me.
+Not the polite laugh you give when something is mildly funny. The real one.
 
-        Every letter in this app is another reminder
-        of how much you mean to me. I can't wait for you to read them all my love.
+The one where you can't stop smiling afterward.
+
+The one that makes everyone around you smile too.
+
+Whenever I hear it, I know things are okay.
+
+And I hope I get to spend many more years hearing it.
 
         Love,
         Totopos ❤️
